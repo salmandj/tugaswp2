@@ -40,7 +40,7 @@ if (isset($_POST['submit'])) {
      <div class="col-md-6 col-md-offset-3">
        <div class="panel panel-success">
          <div class="panel-heading" style="background-color: #FF6600; color:white;">
-           <h3 class="text-center">Tambah Karyawan</h3>
+           <h3 class="text-center">Daftar Admin</h3>
          </div>
          <div class="panel-body">
            <form action="" method="post" enctype="multipart/form-data">
